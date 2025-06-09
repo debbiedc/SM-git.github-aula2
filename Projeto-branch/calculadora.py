@@ -1,4 +1,4 @@
-def somar (a, b)
+def somar(a, b):
     return a + b
 
-print (somar (2, 3))
+print(somar(2, 3))
