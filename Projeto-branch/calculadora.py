@@ -1,7 +1,7 @@
 def somar(a, b):
     return a + b
 
-print(somar(2, 3))
+print(somar(5, 8))
 
 def multiplicar(a, b):
     return a * b
