@@ -1,0 +1,14 @@
+#solicitar ao usuário que insira um número 
+#não foi determinado se era numero inteiro ou float, sendo assim, opto por float
+
+numero = float (input ("Insira um numero:"))
+if numero > 0:
+   print (f"O Número é positivo!")
+
+elif numero < 0:
+  print (f"O número é negativo!") 
+
+else:
+   print (f"O número é zero!")
+
+#não coloquei chaves {} pois não havia variável string
